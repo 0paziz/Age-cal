@@ -23,7 +23,7 @@ calculatebtn.on("click", function(){
     var User_year= User_Birth_date_obj.getFullYear();
 
     var age=current_year - User_year;
-if(!age){
+if(!User_Birth_date_str){
     alert("you can't left blank!")
 }
 else{
