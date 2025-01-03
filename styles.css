@@ -32,23 +32,6 @@ input[type="date"]{
     font-weight: bold;
 }
 
-
-
-h2{
-    font-family: cursive;
-    font-size: 25px;
-}
-
-
-
-
-h1{
-    font-size: 35px;
-}
-
-
-
-
 button{
     margin-bottom: 8px;
     background-color: #1ac980;
@@ -67,6 +50,14 @@ button:hover{
   transform: scale(1.05);
 }
 
+h2{
+    font-family: cursive;
+    font-size: 19px;
+}
 
 
 
+
+h1{
+    font-size: 35px;
+}
